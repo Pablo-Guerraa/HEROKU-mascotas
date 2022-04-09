@@ -1,0 +1,76 @@
+{
+  "dog's": [
+    {
+      "name": "Rocky",
+      "gender": [
+        {
+          "type": "female",
+          "img": ""
+        }
+      ],
+      "raza": "Rottweiler",
+      "edadM": 3, 
+      "direction": "4140 Parker Rd. Allentown, New Mexico 31134",
+      "form": [
+        {
+          "imgAnt": "",
+          "imgPost": "" 
+        }
+      ],
+      "personality": [
+        {
+          "type": "tierno",
+          "img": ""
+        },
+        {
+          "type": "jugueton",
+          "img": ""
+        },
+        {
+          "type": "inquieto",
+          "img": ""
+        },
+        {
+          "type": "cariñoso",
+          "img": ""
+        }
+      ],
+      "description": "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada."
+    }
+  ],
+  "cats": [
+    {
+      "name": "Matilde",
+      "gender": [
+        {
+          "type": "female",
+          "img": ""
+        }
+      ],
+      "raza": "British Shorthair",
+      "edadM": 6, 
+      "direction": "4140 Parker Rd. Allentown, New Mexico 31134",
+      "form": [
+        {
+          "imgAnt": "",
+          "imgPost": "" 
+        }
+      ],
+      "personality": [
+        {
+          "type": "mimado",
+          "img": ""
+        },
+        {
+          "type": "educado",
+          "img": ""
+        },
+        {
+          "type": "independiente",
+          "img": ""
+        }
+      ],
+      "description": "Matilde es la mejor guarda espaldas, siempreesta hay para conversar y recibirá cada día con un fuerte cariño. Fue rescatada y busco una persona que le pueda dar todo el amor que ella necesita."
+    }
+  ]
+}
