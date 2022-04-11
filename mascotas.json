@@ -1,76 +1,187 @@
 {
   "dog's": [
     {
+      "name": "Chester",
+      "gender": [
+        {
+          "type": "Male",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577767/Proyecto-Sprint-1/male_jpczea.png"
+        }
+      ],
+      "raza": "Golden Retriever",
+      "edadM": 5, 
+      "direction": "Cra 81 #46-7, Medellin",
+      "form": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649650489/Proyecto-Sprint-1/Golden-Retrieve_u9rgct.png",
+      "personality": [
+        {
+          "type": "cariñoso",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649648043/Proyecto-Sprint-1/cari%C3%B1oso_evino9.png"
+        },
+        {
+          "type": "jugueton",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577777/Proyecto-Sprint-1/caracteristicas_1_nrjmxj.png"
+        },
+        {
+          "type": "inquieto",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577789/Proyecto-Sprint-1/caracteristicas_objvnk.png"
+        }
+      ],
+      "description": "Chester es un perrito muy lindo y cariñoso, tiene 3 hermanitos más y por cuestiones de salud y tiempo no podremos cuidar a todos, estamos en busca de un buen hogar"
+    },
+    {
       "name": "Rocky",
       "gender": [
         {
-          "type": "female",
-          "img": ""
+          "type": "male",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577767/Proyecto-Sprint-1/male_jpczea.png"
         }
       ],
       "raza": "Rottweiler",
       "edadM": 3, 
       "direction": "4140 Parker Rd. Allentown, New Mexico 31134",
-      "form": [
-        {
-          "imgAnt": "",
-          "imgPost": "" 
-        }
-      ],
+      "form": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649650679/Proyecto-Sprint-1/img_is2s8s.png",
       "personality": [
         {
-          "type": "tierno",
-          "img": ""
-        },
-        {
-          "type": "jugueton",
-          "img": ""
+          "type": "cariñoso",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649648043/Proyecto-Sprint-1/cari%C3%B1oso_evino9.png"
         },
         {
           "type": "inquieto",
-          "img": ""
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577789/Proyecto-Sprint-1/caracteristicas_objvnk.png"
         },
         {
-          "type": "cariñoso",
-          "img": ""
+          "type": "jugueton",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577777/Proyecto-Sprint-1/caracteristicas_1_nrjmxj.png"
         }
       ],
       "description": "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada."
+    },
+    {
+      "name": "Papi",
+      "gender": [
+        {
+          "type": "male",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577767/Proyecto-Sprint-1/male_jpczea.png"
+        }
+      ],
+      "raza": "Chihuahua",
+      "edadM": 7, 
+      "direction": "Mansion del conde Drácula, Pencilvania",
+      "form": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649650679/Proyecto-Sprint-1/img_is2s8s.png",
+      "personality": [
+        {
+          "type": "mordelon",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649648043/Proyecto-Sprint-1/cari%C3%B1oso_evino9.png"
+        },
+        {
+          "type": "jugueton",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577777/Proyecto-Sprint-1/caracteristicas_1_nrjmxj.png"
+        },
+        {
+          "type": "inquieto",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577789/Proyecto-Sprint-1/caracteristicas_objvnk.png"
+        }
+      ],
+      "description": "Papi es un perrito muy Jugueton, aunque suele morder mucho, no es muy brusco. Buscamos un hogar por el bebé que nace en 1 mes"
+    },
+    {
+      "name": "Pelusita",
+      "gender": [
+        {
+          "type": "female",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577770/Proyecto-Sprint-1/Component_5_nds4xw.png"
+        }
+      ],
+      "raza": "Bichón frisé",
+      "edadM": 12,
+      "direction": "Granja del pastorcito mentiroso, cerca de un pequeño pueblo",
+      "form": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649652559/Proyecto-Sprint-1/bichon-frise_nzbase.jpg",
+      "personality": [
+        {
+          "type": "cariñosa",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649648043/Proyecto-Sprint-1/cari%C3%B1oso_evino9.png"
+        },
+        {
+          "type": "tierna",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577777/Proyecto-Sprint-1/caracteristicas_1_nrjmxj.png"
+        },
+        {
+          "type": "mentirosa",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577789/Proyecto-Sprint-1/caracteristicas_objvnk.png"
+        }
+      ],
+      "description": "Pelusita es una perrita muy cariñosa y aunque expresivamente es mentirosa suele ser muy tierna. La damos en adopción porque se confunde con las ovejas."
+    },
+    {
+      "name": "Alaska",
+      "gender": [
+        {
+          "type": "female",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577770/Proyecto-Sprint-1/Component_5_nds4xw.png"
+        }
+      ],
+      "raza": "husky siberiano",
+      "edadM": 36,
+      "direction": "Valle del Draa ostenta, Desierto del Sahara",
+      "form": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649652559/Proyecto-Sprint-1/bichon-frise_nzbase.jpg",
+      "personality": [
+        {
+          "type": "cariñosa",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649648043/Proyecto-Sprint-1/cari%C3%B1oso_evino9.png"
+        },
+        {
+          "type": "tierna",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577777/Proyecto-Sprint-1/caracteristicas_1_nrjmxj.png"
+        },
+        {
+          "type": "jugueton",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577789/Proyecto-Sprint-1/caracteristicas_objvnk.png"
+        }
+      ],
+      "description": "Alaska es una perra muy interactiva, jueguetona y cariñosa.Buscamos hogar adaptado al frio porque se enferma constantemente con el calor"
     }
   ],
+
   "cats": [
     {
       "name": "Matilde",
       "gender": [
         {
           "type": "female",
-          "img": ""
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577770/Proyecto-Sprint-1/Component_5_nds4xw.png"
         }
       ],
       "raza": "British Shorthair",
-      "edadM": 6, 
-      "direction": "4140 Parker Rd. Allentown, New Mexico 31134",
-      "form": [
-        {
-          "imgAnt": "",
-          "imgPost": "" 
-        }
-      ],
+      "edadM": 18, 
+      "direction": "calle 64 #40, Cali",
+      "form": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649653326/Proyecto-Sprint-1/img_djb9qr.png",
       "personality": [
         {
-          "type": "mimado",
-          "img": ""
-        },
-        {
-          "type": "educado",
-          "img": ""
-        },
-        {
-          "type": "independiente",
-          "img": ""
+          "type": "tierna",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577758/Proyecto-Sprint-1/tierno_a3tijo.png"
         }
       ],
-      "description": "Matilde es la mejor guarda espaldas, siempreesta hay para conversar y recibirá cada día con un fuerte cariño. Fue rescatada y busco una persona que le pueda dar todo el amor que ella necesita."
+      "description": "Matilde es la mejor guarda espaldas, siempre esta ahí para conversar y recibirá cada día con un fuerte cariño. Fue rescatada y busco una persona que le pueda dar todo el amor que ella necesita."
+    },
+    {
+      "name": "Pelusa",
+      "gender": [
+        {
+          "type": "male",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577767/Proyecto-Sprint-1/male_jpczea.png"
+        }
+      ],
+      "raza": "Birmano",
+      "edadM": 12, 
+      "direction": "Calle 4sur # 43-3, unidad residencial",
+      "form": "",
+      "personality": [
+        {
+          "type": "tierna",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577758/Proyecto-Sprint-1/tierno_a3tijo.png"
+        }
+      ],
+      "description": "Birmano"
     }
   ]
 }
