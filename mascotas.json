@@ -1,5 +1,5 @@
 {
-  "dog's": [
+  "dog": [
     {
       "name": "Chester",
       "gender": [
@@ -142,7 +142,7 @@
     }
   ],
 
-  "cats": [
+  "cat": [
     {
       "name": "Matilde",
       "gender": [
