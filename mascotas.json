@@ -1,6 +1,7 @@
 {
   "dog": [
     {
+      "id": 1,
       "name": "Chester",
       "gender": [
         {
@@ -29,6 +30,7 @@
       "description": "Chester es un perrito muy lindo y cariñoso, tiene 3 hermanitos más y por cuestiones de salud y tiempo no podremos cuidar a todos, estamos en busca de un buen hogar"
     },
     {
+      "id": 2,
       "name": "Rocky",
       "gender": [
         {
@@ -57,6 +59,7 @@
       "description": "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada."
     },
     {
+      "id": 3,
       "name": "Papi",
       "gender": [
         {
@@ -85,6 +88,7 @@
       "description": "Papi es un perrito muy Jugueton, aunque suele morder mucho, no es muy brusco. Buscamos un hogar por el bebé que nace en 1 mes"
     },
     {
+      "id": 4,
       "name": "Pelusita",
       "gender": [
         {
@@ -113,6 +117,7 @@
       "description": "Pelusita es una perrita muy cariñosa y aunque expresivamente es mentirosa suele ser muy tierna. La damos en adopción porque se confunde con las ovejas."
     },
     {
+      "id": 5,
       "name": "Alaska",
       "gender": [
         {
@@ -144,6 +149,7 @@
 
   "cat": [
     {
+      "id": 6,
       "name": "Matilde",
       "gender": [
         {
@@ -164,6 +170,7 @@
       "description": "Matilde es la mejor guarda espaldas, siempre esta ahí para conversar y recibirá cada día con un fuerte cariño. Fue rescatada y busco una persona que le pueda dar todo el amor que ella necesita."
     },
     {
+      "id": 7,
       "name": "Pelusa",
       "gender": [
         {
