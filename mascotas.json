@@ -3,10 +3,10 @@
     {
       "id": 1,
       "name": "Chester",
-      "publishedBy": {
-        "name": "Maria Dolores", 
-        "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649974279/Proyecto-Sprint-1/Ellipse_9_hnsiel.png"
-      },
+      "publishedBy": [ 
+        "Maria Dolores", 
+        "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649974279/Proyecto-Sprint-1/Ellipse_9_hnsiel.png"
+      ],
       "gender": [
         {
           "type": "Male",
@@ -36,10 +36,10 @@
     {
       "id": 2,
       "name": "Rocky",
-      "publishedBy": {
-        "name": "Maria Dolores", 
-        "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649974279/Proyecto-Sprint-1/Ellipse_9_hnsiel.png"
-      },
+      "publishedBy": [ 
+        "Maria Dolores", 
+        "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649974279/Proyecto-Sprint-1/Ellipse_9_hnsiel.png"
+      ],
       "gender": [
         {
           "type": "male",
@@ -69,10 +69,10 @@
     {
       "id": 3,
       "name": "Papi",
-      "publishedBy": {
-        "name": "Maria Dolores", 
-        "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649974279/Proyecto-Sprint-1/Ellipse_9_hnsiel.png"
-      },
+      "publishedBy": [ 
+        "Maria Dolores", 
+        "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649974279/Proyecto-Sprint-1/Ellipse_9_hnsiel.png"
+      ],
       "gender": [
         {
           "type": "male",
@@ -102,10 +102,10 @@
     {
       "id": 4,
       "name": "Pelusita",
-      "publishedBy": {
-        "name": "Maria Dolores", 
-        "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649974279/Proyecto-Sprint-1/Ellipse_9_hnsiel.png"
-      },
+      "publishedBy": [ 
+        "Maria Dolores", 
+        "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649974279/Proyecto-Sprint-1/Ellipse_9_hnsiel.png"
+      ],
       "gender": [
         {
           "type": "female",
@@ -135,10 +135,10 @@
     {
       "id": 5,
       "name": "Alaska",
-      "publishedBy": {
-        "name": "Maria Dolores", 
-        "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649974279/Proyecto-Sprint-1/Ellipse_9_hnsiel.png"
-      },
+      "publishedBy": [ 
+        "Maria Dolores", 
+        "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649974279/Proyecto-Sprint-1/Ellipse_9_hnsiel.png"
+      ],
       "gender": [
         {
           "type": "female",
@@ -171,10 +171,10 @@
     {
       "id": 6,
       "name": "Matilde",
-      "publishedBy": {
-        "name": "Maria Dolores", 
-        "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649974279/Proyecto-Sprint-1/Ellipse_9_hnsiel.png"
-      },
+      "publishedBy": [ 
+        "Maria Dolores", 
+        "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649974279/Proyecto-Sprint-1/Ellipse_9_hnsiel.png"
+      ],
       "gender": [
         {
           "type": "female",
@@ -196,10 +196,10 @@
     {
       "id": 7,
       "name": "Pelusa",
-      "publishedBy": {
-        "name": "Maria Dolores", 
-        "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649974279/Proyecto-Sprint-1/Ellipse_9_hnsiel.png"
-      },
+      "publishedBy": [ 
+        "Maria Dolores", 
+        "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649974279/Proyecto-Sprint-1/Ellipse_9_hnsiel.png"
+      ],
       "gender": [
         {
           "type": "male",
