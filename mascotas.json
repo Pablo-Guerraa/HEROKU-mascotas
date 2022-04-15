@@ -126,7 +126,7 @@
           "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577777/Proyecto-Sprint-1/caracteristicas_1_nrjmxj.png"
         },
         {
-          "type": "mentirosa",
+          "type": "jugueton",
           "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577789/Proyecto-Sprint-1/caracteristicas_objvnk.png"
         }
       ],
@@ -189,6 +189,15 @@
         {
           "type": "tierna",
           "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577758/Proyecto-Sprint-1/tierno_a3tijo.png"
+        },
+        {
+          "type": "cariñoso",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649648043/Proyecto-Sprint-1/cari%C3%B1oso_evino9.png"
+        },
+        {
+          "type": "jugueton",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577789/Proyecto-Sprint-1/caracteristicas_objvnk.png"
+
         }
       ],
       "description": "Matilde es la mejor guarda espaldas, siempre esta ahí para conversar y recibirá cada día con un fuerte cariño. Fue rescatada y busco una persona que le pueda dar todo el amor que ella necesita."
@@ -214,9 +223,52 @@
         {
           "type": "tierna",
           "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577758/Proyecto-Sprint-1/tierno_a3tijo.png"
+        },
+        { 
+
+          "type": "jugueton",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577777/Proyecto-Sprint-1/caracteristicas_1_nrjmxj.png",
+        },
+        {
+          "type": "",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577754/Proyecto-Sprint-1/Component_1_2_by1aim.png"
         }
       ],
       "description": "Birmano"
+    },
+    {
+      "id": 8,
+      "name": "Bills",
+      "publishedBy": [ 
+        "Zeno zama", 
+        "https://res.cloudinary.com/dxhgejzwc/image/upload/v1650035970/Proyecto-Sprint-1/zenozama_e7bzgk.jpg"
+      ],
+      "gender": [
+        {
+          "type": "male",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577767/Proyecto-Sprint-1/male_jpczea.png"
+        }
+      ],
+      "raza": "sphynx",
+      "edadM": 10, 
+      "direction": "Universo 7",
+      "form": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1650035962/Proyecto-Sprint-1/bills_rdgzxt.jpg",
+      "personality": [
+        {
+          "type": "tierno",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577758/Proyecto-Sprint-1/tierno_a3tijo.png"
+        },
+        { 
+
+          "type": "jugueton",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577777/Proyecto-Sprint-1/caracteristicas_1_nrjmxj.png",
+        },
+        { 
+          "type": "inquieto",  
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577754/Proyecto-Sprint-1/Component_1_2_by1aim.png"
+        }
+      ],
+      "description": "Gato fuerte con muchos animos para jugar, no le gusta que lo acaricien. Motivo de adopcion: muy dañino"
     }
   ]
 }
