@@ -34,6 +34,39 @@
       "description": "Chester es un perrito muy lindo y cariñoso, tiene 3 hermanitos más y por cuestiones de salud y tiempo no podremos cuidar a todos, estamos en busca de un buen hogar"
     },
     {
+      "id": 13,
+      "name": "Scooby Doo",
+      "publishedBy": [ 
+        "shaggy", 
+        "https://res.cloudinary.com/dxhgejzwc/image/upload/v1650185306/Proyecto-Sprint-1/Shaggy_Rogers_warqeq.webp"
+      ],
+      "gender": [
+        {
+          "type": "Male",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577767/Proyecto-Sprint-1/male_jpczea.png"
+        }
+      ],
+      "raza": "Gran Danés",
+      "edadM": 35, 
+      "direction": "Maquina del misterio",
+      "form": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1650185514/Proyecto-Sprint-1/scooby_doo_gooere.jpg",
+      "personality": [
+        {
+          "type": "cariñoso",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649648043/Proyecto-Sprint-1/cari%C3%B1oso_evino9.png"
+        },
+        {
+          "type": "Miedoso",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577777/Proyecto-Sprint-1/caracteristicas_1_nrjmxj.png"
+        },
+        {
+          "type": "inquieto",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577789/Proyecto-Sprint-1/caracteristicas_objvnk.png"
+        }
+      ],
+      "description": "Scooby Doo es un perrito muy cariñoso y educado. Scooby esta en adopcion porque come mucho y no tenemos forma de mantenerlo"
+    },
+    {
       "id": 2,
       "name": "Rocky",
       "publishedBy": [ 
@@ -82,7 +115,7 @@
       "raza": "Chihuahua",
       "edadM": 7, 
       "direction": "Mansion del conde Drácula, Pencilvania",
-      "form": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649650679/Proyecto-Sprint-1/img_is2s8s.png",
+      "form": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1650183412/Proyecto-Sprint-1/papi_gp0vd8.webp",
       "personality": [
         {
           "type": "mordelon",
@@ -148,7 +181,7 @@
       "raza": "husky siberiano",
       "edadM": 36,
       "direction": "Valle del Draa ostenta, Desierto del Sahara",
-      "form": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649652559/Proyecto-Sprint-1/bichon-frise_nzbase.jpg",
+      "form": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649652810/Proyecto-Sprint-1/Husky_siberiano_wcvfln.webp",
       "personality": [
         {
           "type": "cariñosa",
@@ -269,6 +302,74 @@
         }
       ],
       "description": "Gato fuerte con muchos animos para jugar, no le gusta que lo acaricien. Motivo de adopcion: muy dañino"
+    },
+    {
+      "id": 11,
+      "name": "Garfield",
+      "publishedBy": [ 
+        "Jon Bónachon", 
+        "https://res.cloudinary.com/dxhgejzwc/image/upload/v1650183822/Proyecto-Sprint-1/jon_bonachon-garfiel_f5huy7.jpg"
+      ],
+      "gender": [
+        {
+          "type": "Male",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577767/Proyecto-Sprint-1/male_jpczea.png"
+        }
+      ],
+      "raza": "Pelicorto Ingles y gato persa",
+      "edadM": 60, 
+      "direction": "711 de Maple Street.",
+      "form": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1650184030/Proyecto-Sprint-1/garfield_p7mklv.jpg",
+      "personality": [
+        {
+          "type": "Astuto",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577758/Proyecto-Sprint-1/tierno_a3tijo.png"
+        },
+        {
+          "type": "cariñoso",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649648043/Proyecto-Sprint-1/cari%C3%B1oso_evino9.png"
+        },
+        {
+          "type": "jugueton",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577789/Proyecto-Sprint-1/caracteristicas_objvnk.png"
+
+        }
+      ],
+      "description": "Garfield es el mejor acompañante, siempre esta ahí para conversar. Lo damos en adopcion porque de momento se quedaba solo unos dias y ya lleva 5 años"
+    },
+    {
+      "id": 12,
+      "name": "Tom",
+      "publishedBy": [ 
+        "Mimi", 
+        "https://res.cloudinary.com/dxhgejzwc/image/upload/v1650184636/Proyecto-Sprint-1/mimi-novia_de_tom_qstdby.jpg"
+      ],
+      "gender": [
+        {
+          "type": "Male",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577767/Proyecto-Sprint-1/male_jpczea.png"
+        }
+      ],
+      "raza": "Pelicorto Ingles y gato persa",
+      "edadM": 24, 
+      "direction": "hotel de Nueva York",
+      "form": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1650184465/Proyecto-Sprint-1/tom_gmxznm.jpg",
+      "personality": [
+        {
+          "type": "Astuto",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577758/Proyecto-Sprint-1/tierno_a3tijo.png"
+        },
+        {
+          "type": "Flojo",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649648043/Proyecto-Sprint-1/cari%C3%B1oso_evino9.png"
+        },
+        {
+          "type": "Juicioso",
+          "img": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1649577789/Proyecto-Sprint-1/caracteristicas_objvnk.png"
+
+        }
+      ],
+      "description": "Tom es un gato juicioso que siempre obedece ordenes, pero lo damos en adopcion por no atrapar un raton y mantiene peleando con el perro"
     }
   ],
   "favoritos": []
